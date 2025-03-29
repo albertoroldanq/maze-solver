@@ -1,5 +1,5 @@
-from graphics.window import Window
-from maze import Maze
+from src.graphics.window import Window
+from src.maze import Maze
 
 def main():
     num_rows = 12
