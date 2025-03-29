@@ -6,3 +6,12 @@
 # Maze Solver
 
 This is a simple maze solver project to practise Data structures and algorithms in Python.
+
+
+## Tests
+
+Run ```./test.sh```
+
+## Maze solver
+
+Run ```./main.sh```
