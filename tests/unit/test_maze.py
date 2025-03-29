@@ -2,7 +2,7 @@ import unittest
 
 from src.maze import Maze
 
-class MazeTest(unittest.TestCase):
+class TestMaze(unittest.TestCase):
     def test_maze_create_cells(self):
         num_cols = 12
         num_rows = 10
